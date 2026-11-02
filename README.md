@@ -74,7 +74,7 @@ All routes except `/api/auth/register`, `/api/auth/login`, `/api/meta` and `/api
 
 **Live Website:** [D-Finance – Open Application](https://d-finance-frontend-5g8g.onrender.com/login)
 
-**Backend API:** https://d-finance-nsrt.onrender.com
+**Backend API:** https://d-finance-frontend-5g8g.onrender.com
 
 ## 🌐 Deployment
 
