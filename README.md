@@ -70,4 +70,15 @@ All routes except `/api/auth/register`, `/api/auth/login`, `/api/meta` and `/api
 \* Admin only. Members can edit and delete only their own income, expense and contribution records.
 
 ## Deployment
-See `DEPLOYMENT.md`.
+## 🚀 Live Demo
+
+**Live Website:** [D-Finance – Open Application](https://d-finance-frontend-5g8g.onrender.com/login)
+
+**Backend API:** https://d-finance-nsrt.onrender.com
+
+## 🌐 Deployment
+
+- Frontend: Render Static Site
+- Backend: Render Web Service
+- Database: MongoDB Atlas
+  
